@@ -4,7 +4,7 @@ this project try to learn dynamic layout design like on [awwwards](https://www.a
 try me [Demo link](https://teslaminiweb.netlify.app/)
 
 ## Features
- - dynamic layout desig
+ - dynamic layout design
  - loading screen 
  - Smooth Scrolling
  - Less
