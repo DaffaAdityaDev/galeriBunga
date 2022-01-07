@@ -1,7 +1,7 @@
 # Next dumy netflix
 ![alt text](/public/Capture.JPG)
 this project try to learn dynamic layout design like on [awwwards](https://www.awwwards.com/).
-try me [Demo link](https://teslaminiweb.netlify.app/)
+try me [Demo link](https://galeribunga.netlify.app/)
 
 ## Features
  - dynamic layout design
