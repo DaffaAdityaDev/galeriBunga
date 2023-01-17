@@ -32,7 +32,7 @@ const Header = () => {
                 <li>Tentang</li>
                 <li>Fitur</li>
             </ul>
-            <h1 id="header-text">Galeri Bungga</h1>
+            <h1 id="header-text">Galeri Bunga</h1>
         </section>
     )
 }
